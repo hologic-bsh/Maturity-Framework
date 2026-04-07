@@ -1,6 +1,6 @@
 # Secure By Design: Product Security Capability & Maturity Assessment Framework
 
-Welcome! This repository contains the Product Security Capability and Maturity Framework used to assess and improve secure-by-design practices across the medical device and software lifecycle. If you’ve made it here, you probably care about not making the evening news for the wrong reasons. Good for you.
+Welcome! This repository contains the Product Security Capability and Maturity Framework used to assess and improve secure-by-design practices across the medical device and software lifecycle. 
 
 ## What Is This?
 
@@ -18,7 +18,7 @@ Each domain is broken down into specific functions, activities, and best practic
 
 ## Why Should You Care?
 
-Let’s face it, “checkbox security” doesn’t actually secure anything. This framework is designed to help you move from reactive to proactive, enabling compliance with regulatory expectations (looking at you, FDA), and actually making your products and patients safer.
+Let’s face it, “checkbox security” doesn’t actually secure anything. This framework is designed to help you move from reactive to proactive, enabling compliance with regulatory expectations, and actually making your products and patients safer.
 
 ## How Do I Use This?
 
@@ -34,4 +34,4 @@ Let’s face it, “checkbox security” doesn’t actually secure anything. Thi
 
 ## Feedback & Contributions
 
-Open an issue, submit a pull request, or just send carrier pigeons – we welcome it all. And if you use this to level up your program, let us know! (Or just quietly take the credit, we get it.)
+Open an issue, submit a pull request, or just send carrier pigeons – we welcome it all. And if you use this to level up your program, let us know!
